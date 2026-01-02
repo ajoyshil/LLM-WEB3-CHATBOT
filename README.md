@@ -24,6 +24,9 @@ The system combines:
 
 > 🎯 Built as a **demo project**, but structured like a real-world system — ideal for portfolios, demos, learning, and open-source use.
 
+<img width="1512" height="868" alt="Screenshot 2026-01-03 at 12 28 31 AM" src="https://github.com/user-attachments/assets/0eefa13e-42cf-4ba2-9615-4f3fe24ea931" />
+
+
 ---
 
 ## ✨ Key Features
